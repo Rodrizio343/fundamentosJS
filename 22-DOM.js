@@ -14,7 +14,7 @@
 
 // document.body.insertBefore(elementoAPosicionar, elementoDeReferencia)
 
-// //posicionar un nodo en algun lugar en especifico
+// posicionar un nodo en algun lugar en especifico
 
 // document.body.removeChild(elementoAEliminar)
 
